@@ -1,4 +1,5 @@
 
+//preorder Traversal (using index formula)
 class visit2{
     static int[] a={1,2,3,4,5,6,7,8,9,10};
     static int N=10;
